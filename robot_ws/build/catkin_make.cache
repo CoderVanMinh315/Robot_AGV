@@ -1,0 +1,2 @@
+robot_bringup:robot_description:robot_navigation:robot_odom:robot_slam:robot_upstart
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/robot_ws/install -G Unix Makefiles

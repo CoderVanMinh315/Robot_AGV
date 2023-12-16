@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/robot_ws/devel
+
+Name: robot_upstart
+Description: Description of robot_upstart
+Version: 0.4.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

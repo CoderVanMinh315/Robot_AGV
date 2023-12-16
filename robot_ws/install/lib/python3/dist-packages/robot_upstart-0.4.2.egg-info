@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: robot_upstart
+Version: 0.4.2
+Summary: The robot_upstart package provides scripts which may be used to install and uninstall Ubuntu Linux upstart jobs which launch groups of roslaunch files.
+Home-page: UNKNOWN
+Author: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>, Tony Baltovski <tbaltovski@clearpathrobotics.com>
+Author-email: mpurvis@clearpathrobotics.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
